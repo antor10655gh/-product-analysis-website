@@ -17,4 +17,9 @@ nav a {
   line-height: 80px;
   transition: 0.3s;
   font-size: 20px;
+  transition: 0.3s;
+}
+
+nav a:hover {
+  color: rgb(50, 162, 227);
 }

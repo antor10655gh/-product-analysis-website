@@ -1,0 +1,37 @@
+.hero-text {
+  text-align: left;
+}
+
+.hero-text h1 {
+  font-size: 45px;
+  font-weight: 600;
+}
+
+.hero-btn {
+  text-align: left;
+  margin-top: 30px;
+}
+
+.hero-btn .btn1 {
+  background-color: transparent;
+  color: #000;
+  border: 1px solid black;
+  margin-right: 10px;
+}
+
+.hero-btn .btn1:hover {
+  color: #fff;
+  background-color: #32a2e3;
+  border: 1px solid #32a2e3;
+}
+
+.hero-btn .btn2 {
+  border: 1px solid #32a2e3;
+  margin-right: 10px;
+}
+
+.hero-btn .btn2:hover {
+  background-color: #000;
+  color: #fff;
+  border: 1px solid #000;
+}

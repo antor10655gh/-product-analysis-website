@@ -1,0 +1,12 @@
+.reviews-btn {
+  color: #000;
+  border: 1px solid rgb(50, 162, 227);
+  padding: 10px 14px;
+  transition: 0.3s;
+}
+
+.reviews-btn:hover {
+  color: #fff;
+  border: 1px solid rgb(50, 162, 227);
+  background-color: rgb(50, 162, 227);
+}

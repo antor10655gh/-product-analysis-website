@@ -1,38 +1,50 @@
 [
   {
     "id": "1",
-    "picture": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
-    "reviews": "This is good phone but my expectation is so much high for this phone.",
+    "name": "Thomas",
+    "pImg": "https://media.istockphoto.com/photos/positive-human-facial-expressions-and-emotions-portrait-of-handsome-uImg-id1155231963?k=20&m=1155231963&s=170667a&w=0&h=Dj2Rc08TuBiEA35VeXvSieQW-dIO6UfDRJvsM7SpA74=",
+    "uImg": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+    "comment": "This is good phone but my expectation is so much high for this phone.",
     "rating": "3"
   },
   {
     "id": "2",
-    "picture": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80",
-    "reviews": "This phone is really good so I give full of rating. It's full fill-up my expectation.",
+    "name": "Romas",
+    "pImg": "https://media.istockphoto.com/photos/positive-human-facial-expressions-and-emotions-portrait-of-handsome-uImg-id1155231963?k=20&m=1155231963&s=170667a&w=0&h=Dj2Rc08TuBiEA35VeXvSieQW-dIO6UfDRJvsM7SpA74=",
+    "uImg": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80",
+    "comment": "This phone is really good so I give full of rating. It's full fill-up my expectation.",
     "rating": "5"
   },
   {
     "id": "3",
-    "picture": "https://images.unsplash.com/photo-1627161683077-e34782c24d81?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDR8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80",
-    "reviews": "This phone's quality is overall okay but I think it can be more better.",
+    "name": "Nabila",
+    "pImg": "https://media.istockphoto.com/photos/positive-human-facial-expressions-and-emotions-portrait-of-handsome-uImg-id1155231963?k=20&m=1155231963&s=170667a&w=0&h=Dj2Rc08TuBiEA35VeXvSieQW-dIO6UfDRJvsM7SpA74=",
+    "uImg": "https://images.unsplash.com/photo-1627161683077-e34782c24d81?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDR8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80",
+    "comment": "This phone's quality is overall okay but I think it can be more better.",
     "rating": "4"
   },
   {
     "id": "4",
-    "picture": "https://images.unsplash.com/photo-1563237023-b1e970526dcb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDh8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80",
-    "reviews": "This phone is really good so I give full of rating. It's full fill-up my expectation.",
+    "name": "Joras",
+    "pImg": "https://media.istockphoto.com/photos/positive-human-facial-expressions-and-emotions-portrait-of-handsome-uImg-id1155231963?k=20&m=1155231963&s=170667a&w=0&h=Dj2Rc08TuBiEA35VeXvSieQW-dIO6UfDRJvsM7SpA74=",
+    "uImg": "https://images.unsplash.com/photo-1563237023-b1e970526dcb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDh8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80",
+    "comment": "This phone is really good so I give full of rating. It's full fill-up my expectation.",
     "rating": "5"
   },
   {
     "id": "5",
-    "picture": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEwfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
-    "reviews": "This phone is good but when I use this phone I face some optimizing issues.",
+    "name": "Rodela",
+    "pImg": "https://media.istockphoto.com/photos/positive-human-facial-expressions-and-emotions-portrait-of-handsome-uImg-id1155231963?k=20&m=1155231963&s=170667a&w=0&h=Dj2Rc08TuBiEA35VeXvSieQW-dIO6UfDRJvsM7SpA74=",
+    "uImg": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEwfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+    "comment": "This phone is good but when I use this phone I face some optimizing issues.",
     "rating": "4"
   },
   {
     "id": "6",
-    "picture": "https://media.istockphoto.com/photos/positive-human-facial-expressions-and-emotions-portrait-of-handsome-picture-id1155231963?k=20&m=1155231963&s=170667a&w=0&h=Dj2Rc08TuBiEA35VeXvSieQW-dIO6UfDRJvsM7SpA74=",
-    "reviews": "This phone gives me full of satisfaction. I really happy for it's awesome looks and build quality.",
+    "name": "Fadius",
+    "pImg": "https://media.istockphoto.com/photos/positive-human-facial-expressions-and-emotions-portrait-of-handsome-uImg-id1155231963?k=20&m=1155231963&s=170667a&w=0&h=Dj2Rc08TuBiEA35VeXvSieQW-dIO6UfDRJvsM7SpA74=",
+    "uImg": "https://media.istockphoto.com/photos/positive-human-facial-expressions-and-emotions-portrait-of-handsome-uImg-id1155231963?k=20&m=1155231963&s=170667a&w=0&h=Dj2Rc08TuBiEA35VeXvSieQW-dIO6UfDRJvsM7SpA74=",
+    "comment": "This phone gives me full of satisfaction. I really happy for it's awesome looks and build quality.",
     "rating": "5"
   }
 ]

@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <div className="container py-5">
       <div className="row row-cols-1 row-cols-lg-2">
-        <div className="col">
+        <div className="col mb-3 ">
           <div className="hero-text">
             <h1>
               We provide <br /> truly prominent <br /> mobile product.

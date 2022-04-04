@@ -1,11 +1,13 @@
 .header-banner img {
   float: left;
   width: 160px;
+  margin-left: 100px;
 }
 
 nav {
   display: flex;
   justify-content: end;
+  margin-right: 100px;
 }
 
 nav a {
@@ -22,4 +24,17 @@ nav a {
 
 nav a:hover {
   color: rgb(50, 162, 227);
+}
+
+@media screen and (max-width: 992px) {
+  .header-banner img {
+    margin-top: 15px;
+  }
+  nav {
+    justify-content: center;
+    margin: 0;
+  }
+  nav a {
+    font-size: 14px;
+  }
 }

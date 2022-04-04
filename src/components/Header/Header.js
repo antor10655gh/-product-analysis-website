@@ -5,7 +5,7 @@ import "./Header.css";
 
 const Header = () => {
   return (
-    <div className="container" style={{ backgroundColor: "black" }}>
+    <div className="container-fluid" style={{ backgroundColor: "black" }}>
       <div className="row row-cols-1 row-cols-lg-2 d-flex align-items-center">
         <div className="col header-banner">
           <img src={logo} alt="" />

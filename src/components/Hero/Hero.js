@@ -17,7 +17,7 @@ const Hero = () => {
             <button className="btn2">Solution</button>
           </div>
         </div>
-        <div className="col">
+        <div className="col my-3 my-lg-0">
           <img
             className="img-fluid"
             src="http://themazine.com/newwp/esonit/wp-content/uploads/2021/08/image-3.png"

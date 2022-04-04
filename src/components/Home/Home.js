@@ -42,7 +42,7 @@ const Home = () => {
           <ReviewDetail key={review.id} review={review}></ReviewDetail>
         ))}
       </div>
-      <div className="row my-lg-5">
+      <div className="row my-3 my-lg-5">
         <div className="col">
           <button onClick={allReviewShow} className="reviews-btn">
             <span>Show All Reviews</span>

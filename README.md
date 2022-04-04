@@ -1,10 +1,35 @@
-# Getting Started with Create React App
+# Mobile Fixer
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Live Site Link
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `Home`
+
+On this page we include some component like Header, Hero, ReviewDetail.
+
+### `Reviews`
+
+On this page we loaded customer reviews data and also show it.
+
+### `Dashboard`
+
+On this page we loaded data from rechart and also show this data two chart.
+
+1. Line Chart
+2. Pie Chart
+
+### `Blog`
+
+On this page we add some questions and also write their answer.
+
+### `About`
+
+On this page add some information about me.
 
 ### `npm start`
 

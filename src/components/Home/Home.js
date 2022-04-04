@@ -26,7 +26,7 @@ const Home = () => {
       <div>
         <header>
           <h1>
-            Customer <span style={{ color: "#32a2e3" }}>Reviews</span>
+            Customer <span style={{ color: "#32a2e3" }}>Reviews</span> (3)
           </h1>
           <div
             style={{

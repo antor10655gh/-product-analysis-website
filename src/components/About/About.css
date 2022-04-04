@@ -2,14 +2,14 @@
   margin: 50px 0;
 }
 .about-left {
-  background: #f26a8d;
+  background: rgb(50, 162, 227);
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
 }
 .about-left-content > div {
-  background: #f49cbb;
+  background: rgb(124, 196, 238);
   padding: 4rem 4rem 2.5rem 5rem;
   text-align: center;
 }
@@ -79,7 +79,7 @@
 }
 .icons li {
   list-style-type: none;
-  background: #f36a8d;
+  background: rgb(50, 162, 227);
   color: #fff;
   width: 40px;
   height: 40px;
@@ -111,7 +111,7 @@
   text-transform: uppercase;
 }
 .about-right h1 span {
-  color: #dd2d4a;
+  color: rgb(50, 162, 227);
 }
 .about-right h2 {
   font-weight: 600;
@@ -134,22 +134,22 @@
   cursor: pointer;
 }
 .btn.btn-pink {
-  background: #dd2d4a;
+  background: rgb(50, 162, 227);
   color: #fff;
-  border-color: #dd2d4a;
+  border-color: rgb(50, 162, 227);
   transition: all 0.5s ease-in-out;
 }
 .btn.btn-pink:hover {
   background: transparent;
-  border-color: #dd2d4a;
+  border-color: rgb(50, 162, 227);
   color: #000;
 }
 .btn.btn-white {
   transition: all 0.5s ease-in-out;
 }
 .btn.btn-white:hover {
-  background: #dd2d4a;
-  border-color: #dd2d4a;
+  background: rgb(50, 162, 227);
+  border-color: rgb(50, 162, 227);
   color: #fff;
 }
 .about-para p {

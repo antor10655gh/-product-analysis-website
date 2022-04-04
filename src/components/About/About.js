@@ -5,12 +5,12 @@ import me from "../images/me.jpg";
 const About = () => {
   return (
     <div className="container">
-      <div class="about-wrapper">
-        <div class="about-left">
-          <div class="about-left-content">
+      <div className="about-wrapper">
+        <div className="about-left">
+          <div className="about-left-content">
             <div>
-              <div class="shadow">
-                <div class="about-img">
+              <div className="shadow">
+                <div className="about-img">
                   <img src={me} alt="" />
                 </div>
               </div>
@@ -19,38 +19,38 @@ const About = () => {
               <h3>Full Stack Web Developer</h3>
             </div>
 
-            <ul class="icons">
+            <ul className="icons">
               <li>
-                <i class="fab fa-facebook-f"></i>
+                <i className="fab fa-facebook-f"></i>
               </li>
               <li>
-                <i class="fab fa-twitter"></i>
+                <i className="fab fa-twitter"></i>
               </li>
               <li>
-                <i class="fab fa-linkedin"></i>
+                <i className="fab fa-linkedin"></i>
               </li>
               <li>
-                <i class="fab fa-instagram"></i>
+                <i className="fab fa-instagram"></i>
               </li>
             </ul>
           </div>
         </div>
 
-        <div class="about-right">
+        <div className="about-right">
           <h1>
             hi<span>!</span>
           </h1>
           <h2>Here's who I am & what I do</h2>
-          <div class="about-btns">
-            <button type="button" class="btn btn-pink">
+          <div className="about-btns">
+            <button type="button" className="btn btn-pink">
               resume
             </button>
-            <button type="button" class="btn btn-white">
+            <button type="button" className="btn btn-white">
               projects
             </button>
           </div>
 
-          <div class="about-para">
+          <div className="about-para">
             <p>
               It's Antor, Professional Web Developer. I love to write code, it's
               my passion. I am here to help you, I am here to design your web

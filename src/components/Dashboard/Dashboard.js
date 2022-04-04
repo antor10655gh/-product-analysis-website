@@ -58,6 +58,18 @@ const Dashboard = () => {
   ];
   return (
     <div className="container">
+      <header className="my-5">
+        <h1>
+          Product <span style={{ color: "#32a2e3" }}>Chart</span>
+        </h1>
+        <div
+          style={{
+            border: "3px solid rgb(50, 162, 227)",
+            width: "150px",
+            margin: "0 auto",
+          }}
+        ></div>
+      </header>
       <div className="row row-cols-1 row-cols-lg-2 my-3 my-lg-5">
         <div className="col">
           <LineChart
